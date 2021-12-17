@@ -1,1 +1,3 @@
-this is new file in first directory
+this is new file in first directoriy
+adding merge coflicts
+doing some work there 
